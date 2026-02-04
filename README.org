@@ -1,0 +1,47 @@
+#+TITLE: ME 492 Graduation Project
+#+SUBTITLE: Fall 2025
+#+AUTHOR: Fethi Okyar
+#+STARTUP: overview
+#+REVEAL_THEME: simple
+#+REVEAL_INIT_OPTIONS: slideNumber:"c/t", width:1920, height:1080
+#+REVEAL_TITLE_SLIDE: <h2>%t</h2> <h3>%s</h3> <h3>%a</h3>
+#+OPTIONS: timestamp:nil toc:1 num:nil
+#+REVEAL_EXTRA_CSS: ./mystyle.css
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+
+* Calender
+(Spring'26):
+
+<2026-02-04 Wed> : ANNOUNCEMENT: Project Topics (from Dept. Boards)
+
+<2026-02-10 Tue> : SUBMISSION: (GoogleForms-[[https://forms.gle/6RQ55hRsdgKtRZA57][ME 492 Proje Tercih Formu]])
+
+<2026-02-11 Wed> : REGISTRATION: Look at the Topic Assignments below and select your ME 492 section accordingly, if you have not been assigned to a project yet, wait for the ADD/DROP period.
+
+<2026-05-15 Fri> : SUBMISSION: Draft Report (YULearn Turnitin Assignment)
+
+<2026-06-xx TBA> : EXAM: 12:00-15:00 Comprehensive Exam (GDS)
+
+<2026-06-28 Sun> : SUBMISSION: Final Report over Turnitin (until 23:59)
+
+<2026-06-29 Mon> : 09:30 - PRESENTATIONS
+
+* [[./projeler.html][Topic Assignments]]
+Click on the link above to view the project topics. Check regularly, as the table will be populated as new submissions are received from the faculty. Students names associated with the topics will be displayed along the same row.
+
+* Presentation Schedule
+TBA
+The schedule of the first parallel session of the graduation project presentations can be found above.
+
+* Resources
+#+REVEAL_HTML: <div style="font-size: 60%;">
+#+ATTR_REVEAL: :frag (appear appear appear ...)
+Some resources for posing a nice research question, doing a well-posed literature review, and writing a good project report
+  #+ATTR_REVEAL: :frag (appear appear appear ...)
+  - AI: [[https://huggingface.co/][Hugging Face]], chatGPT
+  - Using AI as a personal research assistant: [[https://www.youtube.com/watch?v=8oEOa9wStjk][Andy Stapleton]], Elicit, [[https://www.connectedpapers.com][connectedpapers]], litmaps, [[https://www.paperdigest.com][Paper Digest]], [[https://typeset.io/][scispace]], [[https://researchrabbitapp.com/home][Research Rabbit]]
+  - Math, Programming: [[https://octave.org/download][Octave]], Python
+  - Data Presentation: GnuPlot
+  - Word Processing: Latex, Overleaf
+#+REVEAL_HTML: <div>
+
