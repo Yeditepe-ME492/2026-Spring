@@ -1,5 +1,5 @@
 #+TITLE: ME 492 Graduation Project
-#+SUBTITLE: Fall 2025
+#+SUBTITLE: Spring 2026
 #+AUTHOR: Fethi Okyar
 #+STARTUP: overview
 #+REVEAL_THEME: simple
