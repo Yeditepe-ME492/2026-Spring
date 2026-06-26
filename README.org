@@ -29,9 +29,8 @@
 * [[./projeler.html][Topic Assignments]]
 Click on the link above to view the project topics. Check regularly, as the table will be populated as new submissions are received from the faculty. Students names associated with the topics will be displayed along the same row.
 
-* Presentation Schedule
-TBA
-The schedule of the first parallel session of the graduation project presentations can be found above.
+* [[./sunumlar.html][Presentation Schedule]]
+The schedule of the parallel sessions of the graduation project presentations first hearing can be found above.
 
 * Resources
 #+REVEAL_HTML: <div style="font-size: 60%;">
